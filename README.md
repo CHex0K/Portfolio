@@ -3,7 +3,7 @@
   
   <div align="center">
       <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="25%">
-      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 2", width="25%">
+      <img src="https://stoneforest.ru/wp-content/uploads/2022/08/new-rutube-logo-2022-main.jpg" alt="Image 2", width="25%">
   </div>
    <br>
    <p>
