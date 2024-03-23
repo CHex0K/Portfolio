@@ -16,7 +16,7 @@
     <br>
    <strong>Сертификат:<strong> https://github.com/CHex0K/Resume/blob/main/ЦП1.png
     <br>
-   <strong>Презентация:<strong> ![ABOBA](https://docs.google.com/presentation/d/1iKXT6tlM_ZnYbW9pUmHAdEFNuI_WLZ4y/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true)
+   <strong>Презентация:<strong> <a href="https://docs.google.com/presentation/d/1iKXT6tlM_ZnYbW9pUmHAdEFNuI_WLZ4y/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true">gg)</a>
 </div>
      
 
