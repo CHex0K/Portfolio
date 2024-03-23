@@ -117,4 +117,26 @@
     <br>
    <a href="https://docs.google.com/presentation/d/1M5jKwrL56LWSmCLKZzNp1eq8356UstO8/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
+
+
+<div>
+<h1>Лидеры цифровой трансформации</h1>
+  
+  <div align="center">
+      <img src="https://sun9-26.userapi.com/impg/nCbSck3eQ20M9D4tjgAtNx08dgkQbOQK7NT5BQ/2bpLxA4Zf5M.jpg?size=911x403&quality=96&sign=6fdd606f07744b7b4b7733039d10b763&type=album", width="50%">
+  </div>
+   <br>
+   <strong>Задача:</strong>
+   <p>
+Разработайте систему детекции объектов незаконной нестационарной торговли, интегрируемую с инфраструктурой городского видеонаблюдения. Система должна оперативно выявлять точки незаконной торговли на основе типа объекта (установленный или с возможностью передвижения), его размера и местонахождения.
+
+Функционал сервиса должен позволять автоматически передавать данные о выявленных объектах в правоохранительные органы, а также в структуры, ответственные за надзор в сфере защиты прав
+   </p>
+    <a href="https://github.com/CHex0K/Leaders-CT">Гитхаб с решением</a> 
+    <br>
+   <a>Сертификат</a> 
+    <br>
+   <a href="https://docs.google.com/presentation/d/1edPFlDRjwZkTwKyeimgO_5UWcBB-Xm_d/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+</div>
  
+
