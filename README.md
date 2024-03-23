@@ -73,12 +73,28 @@
    </p>
     <a href="https://github.com/CHex0K/ItPurpleHack">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ML%20Talentmatch-1.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/IT%20Purple%20Hack.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1KIbNWAmSuw_onQLzxVX0LsOXUpfBE7lh/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
 
 
 <div>
-<h1>It Purple Hack</h1>
+<h1>На севере - кодить</h1>
   
+  <div align="center">
+      <img src="https://psv4.userapi.com/c909218/u445360550/docs/d45/0903b79e064c/Snimok_ekrana_2024-03-23_210633.png?extra=GwOJpXUhgw5UONoshfzT4rB0XT_r3EmK5zCBb9GnPFb38Rqo_zDc2AAD-KtIyLIqhjJoxtbLb3QgsLhyEav8c9zxt5xaPpiJXYWVBf3y2iE1_YbVeqWYdpteId740keRlw9i7O17NBOmjnlVd_R96xyTaw", width="75%">
+    <img src="https://media.informpskov.ru/partners/2023/12/A18pi1702037711.jpeg", width="25%">
+  </div>
+   <br>
+   <strong>Задача:</strong>
+   <p>
+      AI для форматирования текста способен обрабатывать различные типы текста (предложения, абзацы и даже длинные документы), исправлять пунктуацию, орфографию, и добавлять HTML форматирование. Так как не все пользователи имеют достаточную компетенцию, а также не все системы могут предоставить набор инструментов для грамотного форматирования, данный инструмент поможет пользователям получать стилизованный и грамотно оформленный контент.
+   </p>
+    <a href="https://github.com/CHex0K/na_severe_codit">Гитхаб с решением</a> 
+    <br>
+   <a>Сертификат</a> 
+    <br>
+   <a href="https://docs.google.com/presentation/d/18K5WLEcJyPfu_3SZkeH1kK3MrFiF3oUE/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+</div>
+ 
