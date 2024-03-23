@@ -1,4 +1,4 @@
 <a>
-  <img align="center" src="https://github.com/CHex0K/Resume/blob/main/ЦП1.png" alt="My github stats" />
+  <img align="center" src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="My github stats" />
 </a>  
 fyyfyu
