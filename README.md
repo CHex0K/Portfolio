@@ -13,7 +13,7 @@
 
 
 </div>
-<div class="image-container",  max-width: 200px;>
+<div align="center">
     <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="25%">
     <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 2", width="25%">
 </div>
