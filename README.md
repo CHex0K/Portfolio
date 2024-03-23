@@ -63,7 +63,7 @@
 <h1>It Purple Hack</h1>
   
   <div align="center">
-      <img src="https://static.tildacdn.com/tild3730-3139-4235-b033-326635376532/photo.svg", width="25%">
+      <img src="https://psv4.userapi.com/c909218/u445360550/docs/d45/0903b79e064c/Snimok_ekrana_2024-03-23_210633.png?extra=GwOJpXUhgw5UONoshfzT4rB0XT_r3EmK5zCBb9GnPFb38Rqo_zDc2AAD-KtIyLIqhjJoxtbLb3QgsLhyEav8c9zxt5xaPpiJXYWVBf3y2iE1_YbVeqWYdpteId740keRlw9i7O17NBOmjnlVd_R96xyTaw", width="25%">
   </div>
    <br>
    <strong>Задача:</strong>
