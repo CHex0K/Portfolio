@@ -38,3 +38,23 @@
     <br>
    <a href="https://docs.google.com/presentation/d/1PLaqwrvmXoLdGahGpOL1a4kj1at5NG6t/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
+
+
+<div>
+<h1>ML Tech Hack</h1>
+  
+  <div align="center">
+      <img src="https://static.tildacdn.com/tild3730-3139-4235-b033-326635376532/photo.svg" alt="Image 1", width="50%">
+  </div>
+   <br>
+   <strong>Проблематика:</strong>
+   <p>
+       У современных компаний нет полного понимания, что в конкретном товаре и сегменте больше всего влияет на выдачу и, соответственно, на продажи. Данные меняются регулярно, а обрабатывать их вручную долго и дорого. Необходимо создать B2C сервис аналитики и создания контента на маркетплейсах.
+   </p>
+    <a href="https://github.com/CHex0K/AIproduct">Гитхаб с решением</a> 
+    <br>
+   <a href="https://github.com/CHex0K/Resume/blob/main/AI_product.png">Сертификат</a> 
+    <br>
+   <a href="https://docs.google.com/presentation/d/1PLaqwrvmXoLdGahGpOL1a4kj1at5NG6t/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+</div>
+
