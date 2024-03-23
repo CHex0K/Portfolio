@@ -77,3 +77,8 @@
     <br>
    <a href="https://docs.google.com/presentation/d/1KIbNWAmSuw_onQLzxVX0LsOXUpfBE7lh/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
+
+
+<div>
+<h1>It Purple Hack</h1>
+  
