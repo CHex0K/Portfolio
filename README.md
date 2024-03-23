@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://github.com/CHex0K/Resume/blob/main/ЦП1.png" width="25%" align="right" />
+<img src="https://github.com/CHex0K/Resume/blob/main/ЦП1.png" width="50%" align="right" />
 fgdgd
 
 <br><br><br>
