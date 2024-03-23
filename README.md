@@ -53,8 +53,8 @@
    </p>
     <a href="https://github.com/CHex0K/ML-Talentmatch">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/AI_product.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/ML%20Talentmatch-1.png">Сертификат</a> 
     <br>
-   <a href="https://docs.google.com/presentation/d/1PLaqwrvmXoLdGahGpOL1a4kj1at5NG6t/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+   <a href="https://docs.google.com/presentation/d/1WJEtU90h4SA14NRhNos9bApqyNyNURFp/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
 
