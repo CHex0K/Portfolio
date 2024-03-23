@@ -44,7 +44,7 @@
 <h1>ML Tech Hack</h1>
   
   <div align="center">
-      <img src="https://static.tildacdn.com/tild3730-3139-4235-b033-326635376532/photo.svg" alt="Image 1", width="50%">
+      <img src="https://static.tildacdn.com/tild3730-3139-4235-b033-326635376532/photo.svg" alt="Image 1", width="25%">
   </div>
    <br>
    <strong>Проблематика:</strong>
