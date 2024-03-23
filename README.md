@@ -1,5 +1,6 @@
 ## Цифровой прорыв (ПФО)
 <div>
+<h1>Цифровой прорыв (ПФО)</h1>
   
   <div align="center">
       <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="50%">
