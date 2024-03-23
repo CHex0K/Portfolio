@@ -33,7 +33,7 @@
    </p>
     <a href="https://github.com/CHex0K/AIproduct">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП1.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/AI_product.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1PLaqwrvmXoLdGahGpOL1a4kj1at5NG6t/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
