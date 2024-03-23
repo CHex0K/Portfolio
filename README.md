@@ -64,7 +64,7 @@
   
   <div align="center">
       <img src="https://psv4.userapi.com/c909218/u445360550/docs/d45/0903b79e064c/Snimok_ekrana_2024-03-23_210633.png?extra=GwOJpXUhgw5UONoshfzT4rB0XT_r3EmK5zCBb9GnPFb38Rqo_zDc2AAD-KtIyLIqhjJoxtbLb3QgsLhyEav8c9zxt5xaPpiJXYWVBf3y2iE1_YbVeqWYdpteId740keRlw9i7O17NBOmjnlVd_R96xyTaw", width="50%">
-    <img src="https://media.informpskov.ru/partners/2023/12/A18pi1702037711.jpeg" alt="Image 2", width="25%">
+    <img src="https://media.informpskov.ru/partners/2023/12/A18pi1702037711.jpeg" alt="Image 2", width="50%">
   </div>
    <br>
    <strong>Задача:</strong>
