@@ -41,17 +41,17 @@
 
 
 <div>
-<h1>ML Tech Hack</h1>
+<h1>ML Talentmatch</h1>
   
   <div align="center">
-      <img src="https://static.tildacdn.com/tild3730-3139-4235-b033-326635376532/photo.svg" alt="Image 1", width="25%">
+      <img src="https://static.tildacdn.com/tild3730-3139-4235-b033-326635376532/photo.svg", width="25%">
   </div>
    <br>
-   <strong>Проблематика:</strong>
+   <strong>Задача:</strong>
    <p>
-       У современных компаний нет полного понимания, что в конкретном товаре и сегменте больше всего влияет на выдачу и, соответственно, на продажи. Данные меняются регулярно, а обрабатывать их вручную долго и дорого. Необходимо создать B2C сервис аналитики и создания контента на маркетплейсах.
+      Разработать и реализовать алгоритм, который будет сопоставлять резюме кандидата с описанием вакансии  и определять, насколько данный кандидат соответствует условиям вакансии.
    </p>
-    <a href="https://github.com/CHex0K/AIproduct">Гитхаб с решением</a> 
+    <a href="https://github.com/CHex0K/ML-Talentmatch">Гитхаб с решением</a> 
     <br>
    <a href="https://github.com/CHex0K/Resume/blob/main/AI_product.png">Сертификат</a> 
     <br>
