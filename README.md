@@ -13,7 +13,7 @@
 
 
 </div>
-<div style="display: flex;">
-    ![Image 1]("https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg")
-    ![Image 2](https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg)
+<div class="image-container",  max-width: 200px;>
+    <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1">
+    <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 2">
 </div>
