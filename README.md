@@ -1,4 +1,4 @@
-## Цифровой прорыв (ПФО)
+
 <div>
 <h1>Цифровой прорыв (ПФО)</h1>
   
@@ -21,8 +21,8 @@
 </div>
      
 
-## AI Product
 <div>
+<h1>AI Product</h1>
   
   <div align="center">
       <img src="https://cdn.freelance.ru/images/att/1696173_900_600.png" alt="Image 1", width="50%">
