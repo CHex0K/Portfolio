@@ -12,11 +12,11 @@
 Корректное извлечение данных именованных сущностей и распознавание их классов окажет существенную помощь в улучшении качества рекомендаций и поиске.
 Участникам хакатона предлагается разработать прототип системы распознавания именованных сущностей в названиях и описаниях к видео.
    </p>
-   <strong>Гитхаб с решением:<strong> https://github.com/CHex0K/NER-for-REC
+   <a href="https://github.com/CHex0K/NER-for-REC">Гитхаб с решением:</a> 
     <br>
-   <strong>Сертификат:<strong> https://github.com/CHex0K/Resume/blob/main/ЦП1.png
+   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП1.png">Сертификат:</a> 
     <br>
-  <a href="https://docs.google.com/presentation/d/1iKXT6tlM_ZnYbW9pUmHAdEFNuI_WLZ4y/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> <strong>Презентация:<strong> </a>
+  <a href="https://docs.google.com/presentation/d/1iKXT6tlM_ZnYbW9pUmHAdEFNuI_WLZ4y/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
      
 
