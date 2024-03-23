@@ -83,7 +83,7 @@
 <h1>На севере - кодить</h1>
   
   <div align="center">
-      <img src="https://static.tildacdn.com/tild3236-3432-4136-b663-623739633566/Group.svg", width="75%">
+      <img src="https://static.tildacdn.com/tild3236-3432-4136-b663-623739633566/Group.svg", width="40%">
   </div>
    <br>
    <strong>Задача:</strong>
