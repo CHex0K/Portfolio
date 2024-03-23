@@ -58,3 +58,21 @@
    <a href="https://docs.google.com/presentation/d/1WJEtU90h4SA14NRhNos9bApqyNyNURFp/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
 
+
+<div>
+<h1>It Purple Hack</h1>
+  
+  <div align="center">
+      <img src="https://static.tildacdn.com/tild3730-3139-4235-b033-326635376532/photo.svg", width="25%">
+  </div>
+   <br>
+   <strong>Задача:</strong>
+   <p>
+      Разработать и реализовать алгоритм, который будет сопоставлять резюме кандидата с описанием вакансии  и определять, насколько данный кандидат соответствует условиям вакансии.
+   </p>
+    <a href="https://github.com/CHex0K/ItPurpleHack">Гитхаб с решением</a> 
+    <br>
+   <a href="https://github.com/CHex0K/Resume/blob/main/ML%20Talentmatch-1.png">Сертификат</a> 
+    <br>
+   <a href="https://docs.google.com/presentation/d/1KIbNWAmSuw_onQLzxVX0LsOXUpfBE7lh/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+</div>
