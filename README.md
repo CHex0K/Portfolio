@@ -14,7 +14,7 @@
    </p>
    <strong>Гитхаб с решением:<strong> https://github.com/CHex0K/NER-for-REC
      <br>
-   <strong>Сертификат:<strong>
+   <strong>Сертификат:<strong> https://github.com/CHex0K/Resume/blob/main/ЦП1.png
 
 
 
