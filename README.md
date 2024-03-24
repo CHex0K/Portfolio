@@ -178,7 +178,7 @@
    </p>
     <a> Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП3.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП4.png">Сертификат</a> 
     <br>
    <a> Презентация </a>
 </div>
