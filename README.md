@@ -141,7 +141,7 @@
  
 
 <div>
-<h1>Лидеры цифровой трансформации</h1>
+<h1>Цифровой прорыв (ЦФО)</h1>
   
   <div align="center">
       <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg", width="50%">
