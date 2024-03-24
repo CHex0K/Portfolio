@@ -158,7 +158,7 @@
    </p>
     <a href=https://github.com/CHex0K/Digital-breakthrough-swans">Гитхаб с решением</a> 
     <br>
-   <a href=>Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП3.png">Сертификат</a> 
     <br>
    <a> Презентация </a>
 </div>
