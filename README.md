@@ -145,7 +145,7 @@
   
   <div align="center">
       <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg", width="50%">
-      <img src="https://lodmedia.hb.bizmrg.com/avatars/company_969264.png, width="50%">
+      <img src="https://lodmedia.hb.bizmrg.com/avatars/company_969264.png", width="50%">
   </div>
    <br>
    <strong>Задача:</strong>
