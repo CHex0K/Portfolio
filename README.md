@@ -63,7 +63,8 @@
 <h1>It Purple Hack</h1>
   
   <div align="center">
-      <img src="https://cdn-crimea-news.com/img/20240221/7d2800f030fb7c6cae9a6b635b1f43a0.jpg", width="40%">
+    <img src="https://cdn-crimea-news.com/img/20240221/7d2800f030fb7c6cae9a6b635b1f43a0.jpg", width="40%">
+    <br>
     <img src="https://media.informpskov.ru/partners/2023/12/A18pi1702037711.jpeg", width="25%">
   </div>
    <br>
