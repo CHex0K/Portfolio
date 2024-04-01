@@ -41,6 +41,27 @@
 
 
 <div>
+<h1>EESTech</h1>
+  
+  <div align="center">
+      <img src="https://github.com/CHex0K/Portfolio/blob/main/hack_imgs/EES.webp", width="50%">
+  </div>
+   <br>
+   <strong>Задача:</strong>
+   <p>
+       Разработать систему анализа данных телеметрии трактора, используя ИИ, которая:
+* Будет оценивать правильность эксплуатации трактора и его систем.
+* Проводить анализ систем и предсказывать их выход из строя. 
+   </p>
+   <a href="https://github.com/CHex0K/NER-for-REC">Гитхаб с решением</a> 
+    <br>
+   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП1.png">Сертификат</a> 
+    <br>
+   <a href="https://docs.google.com/presentation/d/18oJ8t-lhz3f9-K5EYkkszMeudpSe0VVQ/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+</div>
+
+      
+<div>
 <h1>ML Talentmatch</h1>
   
   <div align="center">
