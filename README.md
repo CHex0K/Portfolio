@@ -53,9 +53,9 @@
 * Будет оценивать правильность эксплуатации трактора и его систем.
 * Проводить анализ систем и предсказывать их выход из строя. 
    </p>
-   <a href="https://github.com/CHex0K/NER-for-REC">Гитхаб с решением</a> 
+   <a href="https://github.com/CHex0K/EESTech">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП1.png">Сертификат</a> 
+   <a">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/18oJ8t-lhz3f9-K5EYkkszMeudpSe0VVQ/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
