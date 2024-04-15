@@ -56,7 +56,7 @@
     <br>
    <a href="https://github.com/CHex0K/Resume/blob/main/ЦП5.png">Сертификат</a> 
     <br>
-   <a href="https://docs.google.com/presentation/d/1iKXT6tlM_ZnYbW9pUmHAdEFNuI_WLZ4y/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+   <a href="https://docs.google.com/presentation/d/1EaKj7_eKD06Zk99MhvrwqsJKz2yX1i_Y/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
      
 
