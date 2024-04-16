@@ -1,6 +1,6 @@
 
 <div>
-<h1>Цифровой прорыв (ПФО) 2023</h1>
+<h1>Цифровой прорыв (ПФО) 2023 - 2 место</h1>
   
   <div align="center">
       <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="50%">
@@ -22,7 +22,7 @@
      
 
 <div>
-<h1>AI Product</h1>
+<h1>AI Product - 3 место</h1>
   
   <div align="center">
       <img src="https://cdn.freelance.ru/images/att/1696173_900_600.png" alt="Image 1", width="50%">
