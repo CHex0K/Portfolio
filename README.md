@@ -13,7 +13,7 @@
    </p>
    <a href="https://github.com/NikitaMalakhov/DigitalBreakthrough-AIAssistant">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП1.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/ЦП_ЦФО.pdf">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1iKXT6tlM_ZnYbW9pUmHAdEFNuI_WLZ4y/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
@@ -34,7 +34,7 @@
    </p>
    <a href="https://github.com/CHex0K/NER-for-REC">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП1.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/ЦП1.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1iKXT6tlM_ZnYbW9pUmHAdEFNuI_WLZ4y/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
@@ -53,7 +53,7 @@
    </p>
     <a href="https://github.com/CHex0K/AIproduct">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/AI_product.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/AI_product.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1PLaqwrvmXoLdGahGpOL1a4kj1at5NG6t/edit?usp=drive_link&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
@@ -73,7 +73,7 @@
    </p>
    <a href="https://github.com/CHex0K/CP5_UFO">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП5.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/ЦП5.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1EaKj7_eKD06Zk99MhvrwqsJKz2yX1i_Y/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
@@ -114,7 +114,7 @@
    </p>
     <a href="https://github.com/CHex0K/ML-Talentmatch">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ML%20Talentmatch-1.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/ML%20Talentmatch-1.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1WJEtU90h4SA14NRhNos9bApqyNyNURFp/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
@@ -135,7 +135,7 @@
    </p>
     <a href="https://github.com/CHex0K/ItPurpleHack">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/IT%20Purple%20Hack.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/IT%20Purple%20Hack.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1KIbNWAmSuw_onQLzxVX0LsOXUpfBE7lh/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
@@ -175,7 +175,7 @@
    </p>
     <a href="https://github.com/CHex0K/Digital-breakthrough-RecSys">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП2.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/ЦП2.png">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1M5jKwrL56LWSmCLKZzNp1eq8356UstO8/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
@@ -220,7 +220,7 @@
    </p>
     <a href=https://github.com/CHex0K/Digital-breakthrough-swans">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП3.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/ЦП3.png">Сертификат</a> 
     <br>
    <a> Презентация </a>
 </div>
@@ -240,7 +240,7 @@
    </p>
     <a> Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Resume/blob/main/ЦП4.png">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Resume/blob/main/certificates/ЦП4.png">Сертификат</a> 
     <br>
    <a> Презентация </a>
 </div>
