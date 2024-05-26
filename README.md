@@ -78,7 +78,25 @@
    <a href="https://docs.google.com/presentation/d/1EaKj7_eKD06Zk99MhvrwqsJKz2yX1i_Y/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
      
-
+<div>
+<h1>RedLab / Hack/h1>
+  
+  <div align="center">
+      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="50%">
+      <img src="https://github.com/CHex0K/Portfolio/blob/main/hack_imgs/redhack.png" alt="Image 2", width="50%">
+  </div>
+   <br>
+   <strong>Проблематика:</strong>
+   <p>
+       Для существенного ускорения ответов и улучшения пользовательского опыта и повышения эффективности бизнеса необходимо создать чат-бот поддержки куратора для работы со студентами. Чат-бот должен анализировать запросы студентов, используя алгоритмы машинного обучения, и предоставлять наиболее подходящие ответы на основе данных пользователя, базы знаний и обучающего контента. 
+       В базе знаний кураторов вопросы и ответы на них классифицированы по категориям. В случае, если в базе данных на вопрос пользователя подходит несколько категорий вопросов, бот должен иметь возможность задавать уточняющие вопросы студенту для определения категории вопроса и предоставления более точного ответа. При необходимости бот должен перенаправлять запрос живому куратору, сохраняя контекст общения.
+   </p>
+   <a href="https://github.com/ArturArtikov/Redlab_Hack">Гитхаб с решением</a> 
+    <br>
+   <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/redhack.pdf">Сертификат</a> 
+    <br>
+   <a href="https://docs.google.com/presentation/d/16QAv-bP7W9ghP6Q1t0UqS6DqgjWdYH4e/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+</div>
 
 <div>
 <h1>EESTech</h1>
