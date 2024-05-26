@@ -99,7 +99,7 @@
     <br>
    <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/redhack.pdf">Сертификат</a> 
     <br>
-   <a href="https://docs.google.com/presentation/d/16QAv-bP7W9ghP6Q1t0UqS6DqgjWdYH4e/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
+   <a href="https://docs.google.com/presentation/d/1zSFapIQLtXe72KxpTVuFEwn8MD3zyyXM/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
 
 
