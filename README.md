@@ -85,7 +85,6 @@
 <h1>RedLab / Hack</h1>
   
   <div align="center">
-      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="50%">
       <img src="https://github.com/CHex0K/Portfolio/blob/main/hack_imgs/redhack.png" alt="Image 2", width="50%">
   </div>
    <br>
