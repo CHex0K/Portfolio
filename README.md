@@ -77,6 +77,9 @@
     <br>
    <a href="https://docs.google.com/presentation/d/1EaKj7_eKD06Zk99MhvrwqsJKz2yX1i_Y/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
+
+
+
      
 <div>
 <h1>RedLab / Hack/h1>
@@ -97,6 +100,11 @@
     <br>
    <a href="https://docs.google.com/presentation/d/16QAv-bP7W9ghP6Q1t0UqS6DqgjWdYH4e/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
+
+
+
+
+
 
 <div>
 <h1>EESTech</h1>
