@@ -96,7 +96,7 @@
    </p>
    <a href="https://github.com/ArturArtikov/Redlab_Hack">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/redhack.pdf">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/redlab.pdf">Сертификат</a> 
     <br>
    <a href="https://docs.google.com/presentation/d/1zSFapIQLtXe72KxpTVuFEwn8MD3zyyXM/edit?usp=sharing&ouid=102269763728392486982&rtpof=true&sd=true"> Презентация </a>
 </div>
