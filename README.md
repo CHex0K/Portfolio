@@ -1,4 +1,26 @@
 <div>
+<h1>Лидеры цифровой трансформации 2025 - 1 место</h1>
+  
+  <div align="center">
+      <img src="https://github.com/CHex0K/Portfolio/blob/main/hack_imgs/Gazprom.jpg" alt="Image 2", width="50%">
+  </div>
+   <br>
+   <strong>Проблематика:</strong>
+   <p>
+        Разработайте сервис для менеджеров Газпромбанка, который позволит эффективно отслеживать сильные и слабые стороны ключевых банковских продуктов и услуг. Для этого необходимо кластеризовать отзывы реальных клиентов.
+На сервисе должна быть реализована возможность анализа динамики количества отзывов по разным продуктам и услугам банка, а также визуализация изменения тональности этих отзывов (положительный, нейтральный, отрицательный).
+   </p>
+   <a href="скрыто">Гитхаб с решением</a> 
+    <br>
+   <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/ЛЦТ_2025.pdf">Сертификат</a> 
+    <br>
+   <a href="https://drive.google.com/drive/folders/1HuufxyAgodh91LdXtzOh5TnI_18zLoj4?usp=sharing"> Презентация </a>
+    <br>
+   <a href="https://drive.google.com/drive/folders/1aE0hrEgRbpUQEQNkVbfh2coHAN80gZ5N?usp=sharing"> Схема и объяснение решения </a>
+</div
+
+
+<div>
 <h1>Цифровой прорыв (ЦФО) 2024 - 1 место</h1>
   
   <div align="center">
