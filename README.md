@@ -2,7 +2,6 @@
 <h1>Цифровой прорыв (ЦФО) 2024 - 1 место</h1>
   
   <div align="center">
-      <img src="https://github.com/CHex0K/Portfolio/blob/main/hack_imgs/ЦП.png" alt="Image 1", width="50%">
       <img src="https://github.com/CHex0K/Portfolio/blob/main/hack_imgs/geekbrains.png" alt="Image 2", width="50%">
   </div>
    <br>
@@ -22,7 +21,6 @@
 <h1>Цифровой прорыв (ПФО) 2023 - 2 место</h1>
   
   <div align="center">
-      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="50%">
       <img src="https://stoneforest.ru/wp-content/uploads/2022/08/new-rutube-logo-2022-main.jpg" alt="Image 2", width="25%">
   </div>
    <br>
@@ -62,7 +60,6 @@
 <h1>Цифровой прорыв (ЮФО) 2024</h1>
   
   <div align="center">
-      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg" alt="Image 1", width="50%">
       <img src="https://github.com/CHex0K/Portfolio/blob/main/hack_imgs/ЦП5компания.jpeg" alt="Image 2", width="25%">
   </div>
    <br>
@@ -190,7 +187,6 @@
 <h1>Цифровой прорыв (Международный) 2023</h1>
   
   <div align="center">
-      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg", width="50%">
       <img src="https://stoneforest.ru/wp-content/uploads/2022/08/new-rutube-logo-2022-main.jpg", width="25%">
   </div>
    <br>
@@ -232,7 +228,6 @@
 <h1>Цифровой прорыв (ЦФО) 2023</h1>
   
   <div align="center">
-      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg", width="50%">
       <img src="https://lodmedia.hb.bizmrg.com/avatars/company_969264.png", width="30%">
   </div>
    <br>
@@ -256,7 +251,6 @@
 <h1>Цифровой прорыв (Всероссийский) 2023</h1>
   
   <div align="center">
-      <img src="https://hacks-ai.ru/_next/static/media/header-logo.c7e8f395.svg", width="50%">
       <img src="https://lodmedia.hb.bizmrg.com/avatars/company_796438.png", width="30%">
   </div>
    <br>
