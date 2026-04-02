@@ -12,7 +12,7 @@
    </p>
    <a href="скрыто">Гитхаб с решением</a> 
     <br>
-   <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/ЛЦТ_2025.pdf">Сертификат</a> 
+   <a href="https://github.com/CHex0K/Portfolio/blob/main/certificates/ЛЦТ_2025.jpg">Сертификат</a> 
     <br>
    <a href="https://drive.google.com/drive/folders/1HuufxyAgodh91LdXtzOh5TnI_18zLoj4?usp=sharing"> Презентация </a>
     <br>
